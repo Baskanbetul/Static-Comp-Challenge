@@ -81,3 +81,126 @@ body {
   font-size: 30px;
   font-family: 'Roboto', sans-serif;
 }
+
+.main {
+  display: flex;
+  flex-direction: column;
+  height: 150%;
+  overflow: scroll;
+  grid-gap: 20px;
+  padding: 15px;
+  height: 100%;
+  background-color: hsla(204, 7%, 85%, 0.927);
+}
+
+.main-shares {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 10%;
+  margin-left: 2.5%;
+}
+
+.main-section-shares {
+  font-family: 'Roboto', sans-serif;
+  margin-left: 10px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  /* overflow: scroll; */
+  grid-gap: 20px;
+  padding: 15px;
+  height: 100%;
+}
+
+.grid-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 90%;
+  border-radius: 5px;
+  background-color: #f8fafa;
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 200px;
+}
+
+.grid-card-image {
+  display: flex;
+  justify-content: space-between;
+  height: 30%;
+  width: 100%;
+  /* border-radius: 5px; */
+  background-color: #cbc0bd;
+}
+
+.share-icon {
+  height:35%;
+  width: 15%;
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: rgba(255, 255, 255, 0.762);
+  border-radius: 5px;
+}
+
+.number-views {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 50%;
+  width: 15%;
+  margin-top: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+.number {
+  font-size: 35px;
+    margin-bottom: 35px;
+}
+
+.grid-card-URL {
+  display: flex;
+  align-items: center;
+  height: 10%;
+  width: 90%;
+  border-radius: 5px;
+  background-color: #ebeef1db;
+}
+
+.URL {
+  margin-left: 10px;
+  font-size: 12px;
+}
+
+.grid-card-name-date, .grid-card-playlist, .grid-card-attachments {
+  display: flex;
+  flex-direction: column;
+  height: 10%;
+  width: 90%;
+  font-size: 15px;
+}
+
+.grid-card-playlist{
+  margin-top: 15px;
+}
+
+.grid-card-attachments {
+  margin-bottom: 35px;
+}
+
+.recipients-name, .playlist, .videos {
+  font-size: 20px;
+}
+
+.grid-card-number{
+  font-size: 28px;
+  color: rgb(0, 157, 255);
+}
+
+.date-time{
+  color: rgb(117, 119, 119);
+}
