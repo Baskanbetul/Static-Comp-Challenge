@@ -61,27 +61,23 @@ body {
   flex-direction: column;
   justify-content: space-around;
   align-items: flex-end;
-  width: 30%;
+  width: 40%;
+  margin-right: 3%;
 }
 
-.icon {
-font-family: 'Outfit', sans-serif;
-font-size: 50px;
-}
-
-.icon-container {
+.username-container {
   display: flex;
   justify-content: space-around;
-  width: 50%;
-}
-
-.admin-username {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 13px;
+  width: 35%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  margin-right: 3%;
 }
 
 .icon-container {
   display: flex;
   justify-content: space-around;
   width: 33%;
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
 }
