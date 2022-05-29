@@ -1,4 +1,4 @@
-# Static Comp Challenge ✨
+# Static Comp Challenge [✨](https://baskanbetul.github.io/Static-Comp-Challenge/)
 
 ## Installation Instructions
 
@@ -11,7 +11,6 @@
 - [About the Project](#about-the-project)
 - [Contributors](#contributors)
 - [Technologies Used](#technologies-used)
-- [Deploy Link](#deploy-link)
 
 #### About the Project
 
@@ -26,8 +25,6 @@ My design is meant to imitate and make the same webpage.
 - CSS
 - GitHub
 - Git
-
-👉 [Deployed Link](https://baskanbetul.github.io/Static-Comp-Challenge/)
 
 ![Screen Shot 2022-05-28 at 11.00.52 PM]([file:///Users/betulbaskan/turing/mod2/static-comp/index.html](https://baskanbetul.github.io/Static-Comp-Challenge/))
 
