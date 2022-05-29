@@ -27,9 +27,9 @@ My design is meant to imitate and make the same webpage.
 - GitHub
 - Git
 
-👉 [Deployed Link]()
+👉 [Deployed Link](https://baskanbetul.github.io/Static-Comp-Challenge/)
 
-![Screen Shot 2022-05-28 at 11.00.52 PM](file:///Users/betulbaskan/turing/mod2/static-comp/index.html)
+![Screen Shot 2022-05-28 at 11.00.52 PM]([file:///Users/betulbaskan/turing/mod2/static-comp/index.html](https://baskanbetul.github.io/Static-Comp-Challenge/))
 
 # Static-Comp-Challenge
 Matching a static comp the individual project.
