@@ -1,9 +1,8 @@
-# Static Comp Challenge [✨](https://baskanbetul.github.io/Static-Comp-Challenge/)
+# Static Comp Challenge [✨ Link](https://baskanbetul.github.io/Static-Comp-Challenge/)
 
 ## Installation Instructions
 
 1. Clone the repo from github.
-- [GitHubRepo](https://github.com/Baskanbetul/Static-Comp-Challenge)
 2. Cd into the directory from your terminal and to see the HTML page:
 - `open index.html`
 
@@ -26,9 +25,5 @@ My design is meant to imitate and make the same webpage.
 - GitHub
 - Git
 
-![Screen Shot 2022-05-28 at 11.00.52 PM]([file:///Users/betulbaskan/turing/mod2/static-comp/index.html](https://baskanbetul.github.io/Static-Comp-Challenge/))
-
-# Static-Comp-Challenge
-Matching a static comp the individual project.
-git hub page link : https://baskanbetul.github.io/Static-Comp-Challenge/
+![Screen Shot 2022-05-28 at 11.00.52 PM](https://baskanbetul.github.io/Static-Comp-Challenge/)
 
