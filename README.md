@@ -35,7 +35,6 @@ My design is meant to imitate and make the same webpage.
 
 ## Illustrations
 
-![Static-comp]()
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/96634191/170854103-e65599b9-8874-41af-86b4-3b38f072b6fb.gif)
 
-![Screen Shot 2022-05-28 at 11.00.52 PM](https://baskanbetul.github.io/Static-Comp-Challenge/.png)
 
