@@ -142,6 +142,7 @@ body {
   margin-left: 10px;
   background-color: rgba(255, 255, 255, 0.762);
   border-radius: 5px;
+  transform: scaleX(-1);
 }
 
 .number-views {
@@ -203,4 +204,54 @@ body {
 
 .date-time{
   color: rgb(117, 119, 119);
+}
+
+/* <<<< grid-card-images */
+
+.first-recipient-img {
+  background-image: url('assets/first.jpg');
+  background-size: 320px;
+  background-repeat: no-repeat;
+}
+
+.second-recipient-img {
+  background-image: url('assets/second.jpg');
+  background-size: 317px;
+  background-repeat: no-repeat;
+}
+
+.third-recipient-img {
+  background-image: url('assets/third.jpg');
+  background-size: 317px;
+  background-repeat: no-repeat;
+}
+
+.fourth-recipient-img {
+  background-image: url('assets/fourth.jpg');
+  background-size: 317px;
+  background-repeat: no-repeat;
+}
+
+.fifth-recipient-img {
+  background-image: url('assets/fifth.jpg');
+  background-size: 300px;
+  background-repeat: no-repeat;
+}
+
+.sixth-recipient-img {
+  background-image: url('assets/sixth.jpg');
+  background-size: 318px;
+  background-repeat: no-repeat;
+}
+
+.seventh-recipient-img {
+  background-image: url('assets/seventh.jpg');
+  background-size: 318px;
+  background-repeat: no-repeat;
+}
+
+.eighth-recipient-img {
+  background-image: url('assets/eighth.jpg');
+  background-size: 318px;
+  background-repeat: no-repeat; 
 }
