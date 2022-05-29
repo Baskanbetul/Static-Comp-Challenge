@@ -11,6 +11,8 @@
 - [About the Project](#about-the-project)
 - [Contributors](#contributors)
 - [Technologies Used](#technologies-used)
+- [Sources](#sources)
+- [Illustrations](#illustrations)
 
 #### About the Project
 
@@ -18,13 +20,22 @@ This project is a static comp challenge made only with CSS and HTML. The design 
 My design is meant to imitate and make the same webpage.
 
 #### Contributors
- - [Betul Baskan](https://github.com/Baskanbetul)
+- [Betul Baskan](https://github.com/Baskanbetul)
 
 #### Technologies Used
 - HTML
 - CSS
 - GitHub
 - Git
+
+## Sources
+- [MDN](https://developer.mozilla.org/en-US/)
+- [W3Schools](https://www.w3schools.com/)
+- [TEST CSS FLEXBOX RULES](https://flexbox.help/)
+
+## Illustrations
+
+![Static-comp]()
 
 ![Screen Shot 2022-05-28 at 11.00.52 PM](https://baskanbetul.github.io/Static-Comp-Challenge/.png)
 
