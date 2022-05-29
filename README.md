@@ -30,3 +30,8 @@ My design is meant to imitate and make the same webpage.
 👉 [Deployed Link](https://maddielaw.github.io/StaticComp/)
 
 ![Screen Shot 2022-05-28 at 11.00.52 PM](file:///Users/betulbaskan/turing/mod2/static-comp/index.html)
+
+# Static-Comp-Challenge
+Matching a static comp the individual project.
+git hub page link : https://baskanbetul.github.io/Static-Comp-Challenge/
+
