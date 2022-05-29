@@ -1,10 +1,11 @@
-# Static Comp Challenge [✨ Link](https://baskanbetul.github.io/Static-Comp-Challenge/)
+# Static Comp Challenge   [H✨R✨](https://baskanbetul.github.io/Static-Comp-Challenge/)
 
 ## Installation Instructions
 
-1. Clone the repo from github.
-2. Cd into the directory from your terminal and to see the HTML page:
-- `open index.html`
+1. Fork the repository from gitHub.
+2. Clone down into the terminal after forked repo. While cloning, name it what you want your project to be named. `git clone` `< url >`                    
+   `< newNameYouWantItToHave >`.
+3. View the project in the browser by running `open index.html` in your terminal.
 
 ### Table of Contents
 - [About the Project](#about-the-project)
@@ -25,5 +26,5 @@ My design is meant to imitate and make the same webpage.
 - GitHub
 - Git
 
-![Screen Shot 2022-05-28 at 11.00.52 PM](https://baskanbetul.github.io/Static-Comp-Challenge/)
+![Screen Shot 2022-05-28 at 11.00.52 PM](https://baskanbetul.github.io/Static-Comp-Challenge/.png)
 
