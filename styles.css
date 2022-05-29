@@ -28,7 +28,7 @@ body {
   display: flex;
   align-items: flex-end;
   justify-content: space-around;
-  width: 60%;
+  width: 70%;
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
   margin-bottom: 20px;
@@ -36,6 +36,11 @@ body {
 
 .nav-block-links p:hover, .admin-username:hover, .URL:hover, .material-icons:hover {
   color: #3560aa;
+}
+
+.material-icons {
+  opacity: 60%;
+  margin-left: 9%;
 }
 
 .shares {
@@ -68,7 +73,7 @@ body {
 .username-container {
   display: flex;
   justify-content: space-around;
-  width: 35%;
+  width: 50%;
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
   margin-right: 3%;
@@ -102,7 +107,7 @@ body {
 
 .main-section-shares {
   font-family: 'Roboto', sans-serif;
-  margin-left: 10px;
+  margin-left: 10px; 
 }
 
 .grid {
@@ -137,12 +142,12 @@ body {
 
 .share-icon {
   height:35%;
-  width: 15%;
-  margin-top: 10px;
-  margin-left: 10px;
+  width: 20%;
+  margin-top: 5%;
+  margin-left: 5%;
   background-color: rgba(255, 255, 255, 0.762);
-  border-radius: 5px;
   transform: scaleX(-1);
+  border-radius: 50%;
 }
 
 .number-views {
@@ -159,7 +164,7 @@ body {
 
 .number {
   font-size: 35px;
-    margin-bottom: 35px;
+  margin-bottom: 35px;
 }
 
 .grid-card-URL {
@@ -210,48 +215,48 @@ body {
 
 .first-recipient-img {
   background-image: url('assets/first.jpg');
-  background-size: 320px;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
 .second-recipient-img {
   background-image: url('assets/second.jpg');
-  background-size: 317px;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
 .third-recipient-img {
   background-image: url('assets/third.jpg');
-  background-size: 317px;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
 .fourth-recipient-img {
   background-image: url('assets/fourth.jpg');
-  background-size: 317px;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
 .fifth-recipient-img {
   background-image: url('assets/fifth.jpg');
-  background-size: 300px;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
 .sixth-recipient-img {
   background-image: url('assets/sixth.jpg');
-  background-size: 318px;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
 .seventh-recipient-img {
   background-image: url('assets/seventh.jpg');
-  background-size: 318px;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
 .eighth-recipient-img {
   background-image: url('assets/eighth.jpg');
-  background-size: 318px;
+  background-size: cover;
   background-repeat: no-repeat; 
 }
